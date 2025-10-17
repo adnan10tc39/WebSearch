@@ -1,0 +1,14 @@
+# Virtual environment
+web_search_env/
+__pycache__/
+
+# Environment variables
+.env
+
+# System files
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.log
