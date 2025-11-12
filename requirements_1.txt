@@ -1,5 +1,5 @@
 ddgs
-openai==0.28.0
+openai
 Pillow
 pydantic==2.6.4
 pyprojroot==0.3.0
